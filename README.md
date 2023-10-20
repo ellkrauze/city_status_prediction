@@ -4,7 +4,7 @@ ITMO University - Machine Learning for Industrial Data 2023/2024
 ## Introduction
 Social media occupies a very important place in modern human life and has a strong influence on daily life. A huge flow of information related to a person's thoughts, experiences, emotions, and the world that surrounds him/her is transmitted through them. Exploring social media streams allows you to observe processes taking place in the city, to predict emerging anomalies and events, allowing you to react to them in a timely manner. In this assignment you will learn how to use historical social network data about the frequency of publications in different urban areas to predict future distribution.
 
-![Alt text](image.png)
+![Alt text](img/task_description.png)
 
 ## Assignment
  
